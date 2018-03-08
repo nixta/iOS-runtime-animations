@@ -1,2 +1,2 @@
 # MapAnimations
-Project for the demo theatre @ DevSummit 2017
+Project for the demo theatre @ DevSummit 2018
